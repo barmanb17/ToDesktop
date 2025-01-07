@@ -4,7 +4,7 @@ import { faArrowRight, faFileCode, faHandPointer, faLaptop } from '@fortawesome/
 
 const Hero = () => {
   return (
-    <main className='min-h-screen bg-gradient-to-br from-purple-50 via-orange-50 to-transparent sm:pt-12'>
+    <main className='min-h-screen bg-gradient-to-b from-purple-50 via-orange-50 to-transparent sm:pt-12'>
       {/* Div button section */}
       <div className='max-w-4xl mx-auto px-6 pb-32 flex flex-col sm:items-center sm:text-center'>
         <div className='flex my-6 gap-2 mt-32 items-center border-2 border-yellow-200 bg-yellow-50 rounded-lg px-3 py-1 w-fit shadow-md hover:shadow-lg hover:-translate-y-1 transition-all  group'>
