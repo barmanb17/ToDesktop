@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     
     <nav className='p-3 flex bg-white justify-between items-center fixed top-0 left-0 right-0 z-20 shadow-md'>
-        <a href="#" id='brand' className='flex gap-2 items-center'>
+        <a href="#" id='brand' className='flex gap-2 items-center flex-1'>
             <img className='object-cover max-w-12 max-h-12' src="/src/assets/logo.png" alt="logo"/>
             <span className='text-lg font-medium font-display'>ToDesktop</span>
         </a>
@@ -25,11 +25,13 @@ const Navbar = () => {
             <a href="#" className='font-medium hover:text-primary '>Blogs</a>
             <a href="#" className='font-medium hover:text-primary '>Login</a>
         </div>
-        <button className='hidden  lg:flex gap-2 items-center border-2 border-gray-400 px-6 py-2 rounded-lg hover:border-gray-600 font-medium'>
+        <div className='hidden lg:flex flex-1 flex-row items-center  justify-end'>
+        <button className='flex gap-2 items-center border-2 border-gray-400 px-6 py-2 rounded-lg hover:border-gray-600 font-medium'>
             <img src="/src/assets/image.png" alt="" />
             <span>Electron Developers</span>
             <FontAwesomeIcon icon={faArrowRight} />
         </button>
+        </div>
         <button className='p-2 lg:hidden' onClick={handleMenu}>
             <FontAwesomeIcon icon={faBars} className='text-gray-600' />
         </button>
