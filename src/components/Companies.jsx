@@ -4,7 +4,7 @@ const Companies = () => {
   const initialTranslateLTR = -48 * 4;
   const initialTranslateRTL = 36 * 4;
 
-  // Refs for the lines
+  
   const line1Ref = useRef(null);
   const line2Ref = useRef(null);
   const line3Ref = useRef(null);
@@ -32,7 +32,7 @@ const Companies = () => {
         } else {
           totalTranslate = -(translateX + initialTranslateRTL);
         }
-        element.style.transform = `translateX(${totalTranslate}px)`;  // Corrected typo here
+        element.style.transform = `translateX(${totalTranslate}px)`;  
       };
 
       return () => {
@@ -40,12 +40,12 @@ const Companies = () => {
       };
     };
 
-    // Set up intersection observers for the lines
+    
     const cleanupLine1 = setupIntersectionObserver(line1Ref.current, true, 0.15);
     const cleanupLine2 = setupIntersectionObserver(line2Ref.current, false, 0.15);
     const cleanupLine3 = setupIntersectionObserver(line3Ref.current, true, 0.15);
 
-    // Cleanup on component unmount
+    
     return () => {
       cleanupLine1();
       cleanupLine2();
