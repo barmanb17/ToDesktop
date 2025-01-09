@@ -7,6 +7,7 @@ import BentoGrid from './components/BentoGrid'
 import FeatureLine from './components/FeatureLine'
 import Testimonials from './components/Testimonials'
 import Testimonials2 from './components/Testimonials2'
+import Pricing from './components/Pricing'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
   <FeatureLine/>
   <Testimonials/>
   <Testimonials2/>
+  <Pricing/>
 </div>
   )
 }
