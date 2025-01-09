@@ -51,7 +51,7 @@ const HowItWorks = () => {
         {/* Right part */}
 
         <div className='pt-12 '>
-          <img src="/src/assets/asset 66.svg" alt="" />
+          <img src="/public/assets/asset 66.svg" alt="" />
         </div>
       </div>
       {/* Step2 */}
@@ -100,7 +100,7 @@ const HowItWorks = () => {
         {/* Right part */}
 
         <div className='pt-12 '>
-          <img src="/src/assets/asset 66.svg" alt="" />
+          <img src="/public/assets/asset 66.svg" alt="" />
         </div>
       </div>
 
@@ -150,7 +150,7 @@ const HowItWorks = () => {
         {/* Right part */}
 
         <div className='pt-12 '>
-          <img src="/src/assets/asset 66.svg" alt="" />
+          <img src="/public/assets/asset 66.svg" alt="" />
         </div>
       </div>
     </div>

@@ -55,9 +55,9 @@ const Companies = () => {
   return (
     <div>
        <div className='flex justify-center items-center gap-2'>
-          <img className='translate-y-2' src="/src/assets/asset 2.svg" alt="arrow" />
+          <img className='translate-y-2' src="/public/assets/asset 2.svg" alt="arrow" />
           <span className='font-medium' >APPS POWERED BY TODESKTOP</span>
-          <img className='translate-y-2 -scale-x-100'  src="/src/assets/asset 2.svg" alt="arrow" />
+          <img className='translate-y-2 -scale-x-100'  src="/public/assets/asset 2.svg" alt="arrow" />
        </div>
        {/* Companies lines group */}
 
@@ -66,17 +66,17 @@ const Companies = () => {
         ref={line1Ref}
         >
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 

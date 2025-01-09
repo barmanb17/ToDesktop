@@ -15,7 +15,7 @@ const Navbar = () => {
     
     <nav className='p-3 flex bg-white justify-between items-center fixed top-0 left-0 right-0 z-20 shadow-md'>
         <a href="#" id='brand' className='flex gap-2 items-center flex-1'>
-            <img className='object-cover max-w-12 max-h-12' src="/src/assets/logo.png" alt="logo"/>
+            <img className='object-cover max-w-12 max-h-12' src="/public/assets/logo.png" alt="logo"/>
             <span className='text-lg font-medium font-display'>ToDesktop</span>
         </a>
         <div id='nav-menu' className='hidden lg:flex gap-12'>
@@ -27,7 +27,7 @@ const Navbar = () => {
         </div>
         <div className='hidden lg:flex flex-1 flex-row items-center  justify-end'>
         <button className='flex gap-2 items-center border-2 border-gray-400 px-6 py-2 rounded-lg hover:border-gray-600 font-medium'>
-            <img src="/src/assets/image.png" alt="" />
+            <img src="/public/assets/image.png" alt="" />
             <span>Electron Developers</span>
             <FontAwesomeIcon icon={faArrowRight} />
         </button>
@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className={`fixed z-10 lg:hidden bg-white inset-0 p-3 ${isMenuOpen ? '' : 'hidden'}`}>
             <div className='flex justify-between'>
             <a href="#" id='brand' className='flex gap-2 items-center'>
-            <img className='object-cover max-w-12 max-h-12' src="/src/assets/logo.png" alt="logo"/>
+            <img className='object-cover max-w-12 max-h-12' src="/public/assets/logo.png" alt="logo"/>
             <span className='text-lg font-medium font-display'>ToDesktop</span>
             </a>
 
@@ -57,7 +57,7 @@ const Navbar = () => {
         </div>
         <div className='h-[1px] bg-gray-300'></div>
         <button className='w-full mt-4 flex gap-2 items-center  px-6 py-4 rounded-lg hover:bg-gray-100 font-medium'>
-            <img src="/src/assets/image.png" alt="" />
+            <img src="/public/assets/image.png" alt="" />
             <span>Electron Developers</span>
         </button>
 
