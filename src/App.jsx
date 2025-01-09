@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Companies from './components/Companies'
 import HowItWorks from './components/HowItWorks'
 import BentoGrid from './components/BentoGrid'
+import FeatureLine from './components/FeatureLine'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
   <Companies/>
   <HowItWorks/>
   <BentoGrid/>
+  <FeatureLine/>
 </div>
   )
 }
