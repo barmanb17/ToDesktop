@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Companies from './components/Companies'
 import HowItWorks from './components/HowItWorks'
+import BentoGrid from './components/BentoGrid'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
   <Hero/>
   <Companies/>
   <HowItWorks/>
+  <BentoGrid/>
 </div>
   )
 }

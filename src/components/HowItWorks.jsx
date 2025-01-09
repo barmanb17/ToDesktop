@@ -5,9 +5,9 @@ import React from 'react'
 const HowItWorks = () => {
   return (
     // Step 1
-    <div className='flex flex-col gap-6 px-6 py-12 max-w-7xl mt-16 mx-auto lg:px-8 lg:mt-32 overflow-hidden'>
+    <div className='flex flex-col gap-6 px-8 py-12 max-w-7xl mt-16 mx-auto lg:px-8 lg:mt-32 overflow-hidden'>
       <h2 className='font-display text-5xl sm:font-semibold mb-14'>How it works</h2>
-      <div className='rounded-xl border-2 px-8 py-12 flex flex-col lg:flex-row gap-6'>
+      <div className='rounded-xl border-2 px-8 py-8 flex flex-col lg:flex-row gap-6 items-center'>
         {/* left part */}
         <div className='flex flex-col gap-6 lg:w-1/2'>
           <span className='border-2 border-yellow-300 bg-yellow-50 text-yellow-800 w-fit px-3 py-1 rounded-lg font-medium font-display'>Step 1</span>
@@ -56,7 +56,7 @@ const HowItWorks = () => {
       </div>
       {/* Step2 */}
 
-      <div className='rounded-xl border-2 px-8 py-12 flex flex-col lg:flex-row gap-6'>
+      <div className='rounded-xl border-2 px-8 py-8 flex flex-col lg:flex-row gap-6 items-center'>
         {/* left part */}
         <div className='flex flex-col gap-6 lg:w-1/2'>
           <span className='border-2 border-yellow-300 bg-yellow-50 text-yellow-800 w-fit px-3 py-1 rounded-lg font-medium font-display'>Step 2</span>
@@ -106,7 +106,7 @@ const HowItWorks = () => {
 
       {/* step3 */}
 
-      <div className='rounded-xl border-2 px-8 py-12 flex flex-col lg:flex-row gap-6'>
+      <div className='rounded-xl border-2 px-8 py-8 flex flex-col lg:flex-row gap-6 items-center'>
         {/* left part */}
         <div className='flex flex-col gap-6 lg:w-1/2'>
           <span className='border-2 border-yellow-300 bg-yellow-50 text-yellow-800 w-fit px-3 py-1 rounded-lg font-medium font-display'>Step 3</span>
