@@ -9,6 +9,7 @@ import Testimonials from './components/Testimonials'
 import Testimonials2 from './components/Testimonials2'
 import Pricing from './components/Pricing'
 import FAQs from './components/FAQs'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
   <Testimonials2/>
   <Pricing/>
   <FAQs/>
+  <Footer/>
 </div>
   )
 }
