@@ -66,74 +66,74 @@ const Companies = () => {
         ref={line1Ref}
         >
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/public/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300 md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
         </div>
@@ -143,85 +143,85 @@ const Companies = () => {
         >
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
         </div>
@@ -231,85 +231,85 @@ const Companies = () => {
         >
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
 
             <div className='flex flex-col min-w-24 min-h-24 items-center justify-center bg-white rounded-xl border-2 border-gray-300
             md:min-h-32 md:min-w-32'>
-                <img className='w-12 h-12 md:w-16 md:h-16' src="/src/assets/asset 3.png" alt="" />
+                <img className='w-12 h-12 md:w-16 md:h-16' src="/assets/asset 3.png" alt="" />
                 <span className='text-[12px] md:text-[16px] font-semibold '>Unbounce</span>
             </div>
         </div>
