@@ -8,6 +8,7 @@ import FeatureLine from './components/FeatureLine'
 import Testimonials from './components/Testimonials'
 import Testimonials2 from './components/Testimonials2'
 import Pricing from './components/Pricing'
+import FAQs from './components/FAQs'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
   <Testimonials/>
   <Testimonials2/>
   <Pricing/>
+  <FAQs/>
 </div>
   )
 }
